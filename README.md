@@ -47,4 +47,8 @@ Launch the Streamlit app
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- USAGE EXAMPLES -->
+## Demo
+
+[![Watch the video](https://www.youtube.com/watch?v=KXWTdC9wPD8)
 
