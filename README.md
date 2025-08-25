@@ -40,9 +40,16 @@ The scraper take a search query in input for example "restaurant in new york" an
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-launch the Streamlit app
+Launch the Streamlit app
   ```sh
-     streamlit run app.py"
+     streamlit run app.py
   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- USAGE EXAMPLES -->
+## Demo
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
