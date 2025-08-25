@@ -28,7 +28,7 @@ The scraper take a search query in input for example "restaurant in new york" an
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mohcinsarrar/googleMaps-scraper.git
+   git clone [https://github.com/mohcinsarrar/googleMaps-scraper.git](https://github.com/sarrarmohcin/googleMapsScraper.git)
    ```
 2. Install requirements
    ```sh
