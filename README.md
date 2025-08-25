@@ -50,6 +50,6 @@ Launch the Streamlit app
 <!-- USAGE EXAMPLES -->
 ## Demo
 
-
+<video src="https://www.upwork.com/att/download/portfolio/persons/uid/1460590223844884480/profile/projects/files/74894364-6b55-49d5-80e7-b21860185151" controls width="600"></video>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
