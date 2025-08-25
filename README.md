@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div align="center">
   <h1 align="center">Google Maps Scraper</h1>
-  <img src="./images/gmapscraper.png">
+  <img src="https://cdn.hackernoon.com/images/-4ya3q6y.png">
 </div>
 
 This Google Maps Scraper will enable you to get data from Google Places, the scraper built with Python and library <a href="https://www.selenium.dev">Selenium</a>
