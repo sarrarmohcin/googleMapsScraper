@@ -40,18 +40,9 @@ The scraper take a search query in input for example "restaurant in new york" an
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-### Scrape places
-you can scrape places for a specific search query, Example : "restaurant in new york", to start scraping execute this command in the directory of the file main.py :
-python main.py -q "rest in new york" -l 2 -pf "dd.csv" -r -rf "ff.csv" -rl 2
+launch the Streamlit app
   ```sh
-     python main.py -r -q "search query" -l maxPlaces -rl maxReviews -pf "outputFile.csv" -rf "outputFile.csv"
+     streamlit run app.py"
   ```
-
-- -r : option to activate scraping reviews (Default : deactivate)
-- -q "search query" : Example : -q "restaurant in new york"
-- -l maxPlaces : max places to be scraped
-- -rl maxReviews : max reviews to be scraped
-- -pf "outputFile.csv" : path to output file to save places data
-- -rf "outputFile.csv" : path to output file to save reviews data
 
 <p align="right">(<a href="#top">back to top</a>)</p>
