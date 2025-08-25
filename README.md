@@ -50,5 +50,5 @@ Launch the Streamlit app
 <!-- USAGE EXAMPLES -->
 ## Demo
 
-[![Watch the video](https://www.youtube.com/watch?v=KXWTdC9wPD8)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/KXWTdC9wPD8/0.jpg)](http://www.youtube.com/watch?v=KXWTdC9wPD8 "Watch Demo")
 
